@@ -1,4 +1,4 @@
-An algorithms which traverses a hierarch-based graph.
+An algorithms which traverses a hierarchical-based graph.
 
 E.G: Node G -> node C -> Node (C,D) -> Node A -> node B -> (Node E,F).
 
